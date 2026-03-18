@@ -1,0 +1,9 @@
+{
+  "duration_secs": 30,
+  "endpoints": [
+    {
+      "name": "MyEndpoint",
+      "url": "http://my-grpc-server:10000"
+    }
+  ]
+}
